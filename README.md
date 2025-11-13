@@ -1,6 +1,6 @@
 🤖 Telegram 双向转发客服机器人 (Cloudflare Worker)
 
-本项目基于 Cloudflare Worker 和 Key-Value (KV) 存储构建，旨在为 Telegram 机器人提供一套高效的私聊用户与管理员群组话题之间的双向通信中继系统。它具备强大的反垃圾和自动化功能，极大地提升了客服效率。
+本项目基于 Cloudflare Worker 和 Key-Value (KV) 存储构建，旨在为 Telegram 机器人提供一套高效的私聊用户与管理员群组话题之间的双向通信中继系统。它具备强大的反垃圾和自动化功能，极大地提升了对话效率。
 
 ✨ 核心功能亮点
 
